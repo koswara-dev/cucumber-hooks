@@ -4,8 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15aa0947-8024-4946-8a10-b6cc05fc2ffe" name="Changes" comment="Test Github Action">
+    <list default="true" id="15aa0947-8024-4946-8a10-b6cc05fc2ffe" name="Changes" comment="Mvn Clean Two">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FailedTestScreenshot/Dashboard_user_function_20221023082658.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FailedTestScreenshot/Dashboard_user_function_20221023084636.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FailedTestScreenshot/Dashboard_user_function_20221023090230.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FailedTestScreenshot/User_invalid_login_20221023090208.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/FailedTestScreenshot/User_valid_login_20221023090220.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestDashboard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666532959126</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Mvn Clean">
+      <created>1666535169909</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666535169909</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Mvn Clean Two">
+      <created>1666535205536</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666535205536</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -103,6 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Test Github Action" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Github Action" />
+    <MESSAGE value="Mvn Clean" />
+    <MESSAGE value="Mvn Clean Two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mvn Clean Two" />
   </component>
 </project>
