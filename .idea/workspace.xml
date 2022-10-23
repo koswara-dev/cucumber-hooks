@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15aa0947-8024-4946-8a10-b6cc05fc2ffe" name="Changes" comment="Fix Maven Test">
+    <list default="true" id="15aa0947-8024-4946-8a10-b6cc05fc2ffe" name="Changes" comment="Fix Maven Test Three">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestDashboard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/juaracoding/cucumber/step_definitions/TestDashboard.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +109,21 @@
       <option name="project" value="LOCAL" />
       <updated>1666537001132</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Fix Maven Test Two">
+      <created>1666537392219</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1666537392219</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fix Maven Test Three">
+      <created>1666537608420</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666537608420</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -128,6 +142,8 @@
     <MESSAGE value="Mvn Clean" />
     <MESSAGE value="Mvn Clean Two" />
     <MESSAGE value="Fix Maven Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fix Maven Test" />
+    <MESSAGE value="Fix Maven Test Two" />
+    <MESSAGE value="Fix Maven Test Three" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix Maven Test Three" />
   </component>
 </project>
